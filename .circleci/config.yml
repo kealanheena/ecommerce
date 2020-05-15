@@ -9,6 +9,8 @@ jobs:
       - checkout
       - node/with-cache:
           steps:
+            - run:
+              command:  circleci tests glob "client/*.test.js"
             - run: npm install
             - run: npm test
 workflows:
