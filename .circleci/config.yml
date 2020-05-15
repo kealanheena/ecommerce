@@ -10,7 +10,7 @@ jobs:
       - node/with-cache:
           steps:
             - run: npm install
-            - run: npm test --prefix ./client
+            - run: npm test --prefix ../client
 workflows:
     build-and-test:
       jobs:
