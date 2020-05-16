@@ -2,7 +2,7 @@ version: 2.1
 orbs:
   node: circleci/node@1.1.6
 jobs:
-  build-and-test-client:
+  build-and-test:
     executor:
       name: node/default
     steps:
@@ -14,6 +14,6 @@ jobs:
           name: run client tests
           command: yarn --cwd ./client test 
 workflows:
-    build-and-test-client:
+    build-and-test:
       jobs:
-        - build-and-test-client
+        - build-and-test
