@@ -9,7 +9,7 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - node-v1-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+            - node-v1-{{ checksum "yarn.lock" }}
       - run: yarn --frozen-lockfile
       - run: npm install --prefix ./client
       - run: yarn --cwd ./client test
