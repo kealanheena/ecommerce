@@ -25,18 +25,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Handcrafted Granite Shoes"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Handcrafted Granite Shoes
+                Product Title
               </h5>
               <p>
-                £857.00
+                £100
               </p>
               <p>
-                Rustic, Licensed, Intelligent
+                this is a product description
               </p>
             </div>
           </div>
@@ -47,18 +47,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Rustic Concrete Salad"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Rustic Concrete Salad
+                Product Title
               </h5>
               <p>
-                £797.00
+                £100
               </p>
               <p>
-                Unbranded, Unbranded, Awesome
+                this is a product description
               </p>
             </div>
           </div>
@@ -69,18 +69,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Practical Plastic Car"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Practical Plastic Car
+                Product Title
               </h5>
               <p>
-                £493.00
+                £100
               </p>
               <p>
-                Handmade, Practical, Ergonomic
+                this is a product description
               </p>
             </div>
           </div>
@@ -91,18 +91,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Rustic Cotton Shirt"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Rustic Cotton Shirt
+                Product Title
               </h5>
               <p>
-                £726.00
+                £100
               </p>
               <p>
-                Fantastic, Awesome, Refined
+                this is a product description
               </p>
             </div>
           </div>
@@ -113,18 +113,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Ergonomic Plastic Table"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Ergonomic Plastic Table
+                Product Title
               </h5>
               <p>
-                £392.00
+                £100
               </p>
               <p>
-                Ergonomic, Handmade, Licensed
+                this is a product description
               </p>
             </div>
           </div>
@@ -135,18 +135,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Generic Wooden Bike"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Generic Wooden Bike
+                Product Title
               </h5>
               <p>
-                £88.00
+                £100
               </p>
               <p>
-                Sleek, Sleek, Incredible
+                this is a product description
               </p>
             </div>
           </div>
@@ -157,18 +157,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Handcrafted Granite Soap"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Handcrafted Granite Soap
+                Product Title
               </h5>
               <p>
-                £45.00
+                £100
               </p>
               <p>
-                Gorgeous, Handcrafted, Ergonomic
+                this is a product description
               </p>
             </div>
           </div>
@@ -179,18 +179,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Handcrafted Rubber Car"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Handcrafted Rubber Car
+                Product Title
               </h5>
               <p>
-                £376.00
+                £100
               </p>
               <p>
-                Practical, Ergonomic, Handcrafted
+                this is a product description
               </p>
             </div>
           </div>
@@ -201,18 +201,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Generic Soft Soap"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Generic Soft Soap
+                Product Title
               </h5>
               <p>
-                £195.00
+                £100
               </p>
               <p>
-                Sleek, Ergonomic, Small
+                this is a product description
               </p>
             </div>
           </div>
@@ -223,18 +223,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Awesome Metal Hat"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Awesome Metal Hat
+                Product Title
               </h5>
               <p>
-                £839.00
+                £100
               </p>
               <p>
-                Generic, Small, Intelligent
+                this is a product description
               </p>
             </div>
           </div>
@@ -245,18 +245,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Handmade Steel Cheese"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Handmade Steel Cheese
+                Product Title
               </h5>
               <p>
-                £9.00
+                £100
               </p>
               <p>
-                Rustic, Unbranded, Sleek
+                this is a product description
               </p>
             </div>
           </div>
@@ -267,18 +267,18 @@ Object {
               class="product-card"
             >
               <img
-                alt="Handmade Steel Chair"
+                alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
                 width="100%"
               />
               <h5>
-                Handmade Steel Chair
+                Product Title
               </h5>
               <p>
-                £42.00
+                £100
               </p>
               <p>
-                Practical, Rustic, Sleek
+                this is a product description
               </p>
             </div>
           </div>
@@ -307,18 +307,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Handcrafted Granite Shoes"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Handcrafted Granite Shoes
+              Product Title
             </h5>
             <p>
-              £857.00
+              £100
             </p>
             <p>
-              Rustic, Licensed, Intelligent
+              this is a product description
             </p>
           </div>
         </div>
@@ -329,18 +329,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Rustic Concrete Salad"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Rustic Concrete Salad
+              Product Title
             </h5>
             <p>
-              £797.00
+              £100
             </p>
             <p>
-              Unbranded, Unbranded, Awesome
+              this is a product description
             </p>
           </div>
         </div>
@@ -351,18 +351,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Practical Plastic Car"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Practical Plastic Car
+              Product Title
             </h5>
             <p>
-              £493.00
+              £100
             </p>
             <p>
-              Handmade, Practical, Ergonomic
+              this is a product description
             </p>
           </div>
         </div>
@@ -373,18 +373,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Rustic Cotton Shirt"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Rustic Cotton Shirt
+              Product Title
             </h5>
             <p>
-              £726.00
+              £100
             </p>
             <p>
-              Fantastic, Awesome, Refined
+              this is a product description
             </p>
           </div>
         </div>
@@ -395,18 +395,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Ergonomic Plastic Table"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Ergonomic Plastic Table
+              Product Title
             </h5>
             <p>
-              £392.00
+              £100
             </p>
             <p>
-              Ergonomic, Handmade, Licensed
+              this is a product description
             </p>
           </div>
         </div>
@@ -417,18 +417,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Generic Wooden Bike"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Generic Wooden Bike
+              Product Title
             </h5>
             <p>
-              £88.00
+              £100
             </p>
             <p>
-              Sleek, Sleek, Incredible
+              this is a product description
             </p>
           </div>
         </div>
@@ -439,18 +439,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Handcrafted Granite Soap"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Handcrafted Granite Soap
+              Product Title
             </h5>
             <p>
-              £45.00
+              £100
             </p>
             <p>
-              Gorgeous, Handcrafted, Ergonomic
+              this is a product description
             </p>
           </div>
         </div>
@@ -461,18 +461,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Handcrafted Rubber Car"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Handcrafted Rubber Car
+              Product Title
             </h5>
             <p>
-              £376.00
+              £100
             </p>
             <p>
-              Practical, Ergonomic, Handcrafted
+              this is a product description
             </p>
           </div>
         </div>
@@ -483,18 +483,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Generic Soft Soap"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Generic Soft Soap
+              Product Title
             </h5>
             <p>
-              £195.00
+              £100
             </p>
             <p>
-              Sleek, Ergonomic, Small
+              this is a product description
             </p>
           </div>
         </div>
@@ -505,18 +505,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Awesome Metal Hat"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Awesome Metal Hat
+              Product Title
             </h5>
             <p>
-              £839.00
+              £100
             </p>
             <p>
-              Generic, Small, Intelligent
+              this is a product description
             </p>
           </div>
         </div>
@@ -527,18 +527,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Handmade Steel Cheese"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Handmade Steel Cheese
+              Product Title
             </h5>
             <p>
-              £9.00
+              £100
             </p>
             <p>
-              Rustic, Unbranded, Sleek
+              this is a product description
             </p>
           </div>
         </div>
@@ -549,18 +549,18 @@ Object {
             class="product-card"
           >
             <img
-              alt="Handmade Steel Chair"
+              alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
               width="100%"
             />
             <h5>
-              Handmade Steel Chair
+              Product Title
             </h5>
             <p>
-              £42.00
+              £100
             </p>
             <p>
-              Practical, Rustic, Sleek
+              this is a product description
             </p>
           </div>
         </div>
