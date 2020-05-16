@@ -19,53 +19,266 @@ Object {
           class="row"
         >
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                some title
-              </h3>
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
               <p>
-                50
+                £100
               </p>
               <p>
-                some description
+                this is a product description
               </p>
             </div>
           </div>
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                another title
-              </h3>
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
               <p>
-                70
+                £100
               </p>
               <p>
-                another description
+                this is a product description
               </p>
             </div>
           </div>
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                final title
-              </h3>
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
               <p>
-                100
+                £100
               </p>
               <p>
-                final description
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Product Title"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Product Title
+              </h5>
+              <p>
+                £100
+              </p>
+              <p>
+                this is a product description
               </p>
             </div>
           </div>
@@ -88,53 +301,266 @@ Object {
         class="row"
       >
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              some title
-            </h3>
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
             <p>
-              50
+              £100
             </p>
             <p>
-              some description
+              this is a product description
             </p>
           </div>
         </div>
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              another title
-            </h3>
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
             <p>
-              70
+              £100
             </p>
             <p>
-              another description
+              this is a product description
             </p>
           </div>
         </div>
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              final title
-            </h3>
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
             <p>
-              100
+              £100
             </p>
             <p>
-              final description
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Product Title"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Product Title
+            </h5>
+            <p>
+              £100
+            </p>
+            <p>
+              this is a product description
             </p>
           </div>
         </div>

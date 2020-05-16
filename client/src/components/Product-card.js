@@ -1,10 +1,11 @@
 import React from 'react';
 
-function ProductCard({ title, price, description }) {
+function ProductCard({ title, image, price, description }) {
   return (
     <div className="product-card">
-      <h3>{title}</h3>
-      <p>{price}</p>
+      <img width="100%" src={image} alt={title} />
+      <h5>{title}</h5>
+      <p>{`£${price}`}</p>
       <p>{description}</p>
     </div>
   );
