@@ -7,10 +7,8 @@ jobs:
       name: node/default
     steps:
       - checkout
-      - node/with-cache:
-          steps:
-            - run: npm install --prefix ./client
-            - run: yarn --cwd ./client test
+      - run: yarn --cwd ./client install 
+      - run: yarn --cwd ./client test
 workflows:
     build-and-test:
       jobs:
