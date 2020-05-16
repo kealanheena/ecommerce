@@ -23,10 +23,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -38,6 +40,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -45,10 +50,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -60,6 +67,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -67,10 +77,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -82,6 +94,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -89,10 +104,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -104,6 +121,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -111,10 +131,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -126,6 +148,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -133,10 +158,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -148,6 +175,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -155,10 +185,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -170,6 +202,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -177,10 +212,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -192,6 +229,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -199,10 +239,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -214,6 +256,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -221,10 +266,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -236,6 +283,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -243,10 +293,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -258,6 +310,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
           <div
@@ -265,10 +320,12 @@ Object {
           >
             <div
               class="product-card"
+              style="margin-top: 15px;"
             >
               <img
                 alt="Product Title"
                 src="http://placehold.jp/640x480.png?text=placeholder"
+                style="width: 100%;"
                 width="100%"
               />
               <h5>
@@ -280,6 +337,9 @@ Object {
               <p>
                 this is a product description
               </p>
+              <button>
+                Add to Cart
+              </button>
             </div>
           </div>
         </div>
@@ -305,10 +365,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -320,6 +382,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -327,10 +392,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -342,6 +409,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -349,10 +419,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -364,6 +436,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -371,10 +446,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -386,6 +463,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -393,10 +473,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -408,6 +490,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -415,10 +500,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -430,6 +517,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -437,10 +527,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -452,6 +544,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -459,10 +554,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -474,6 +571,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -481,10 +581,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -496,6 +598,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -503,10 +608,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -518,6 +625,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -525,10 +635,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -540,6 +652,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
         <div
@@ -547,10 +662,12 @@ Object {
         >
           <div
             class="product-card"
+            style="margin-top: 15px;"
           >
             <img
               alt="Product Title"
               src="http://placehold.jp/640x480.png?text=placeholder"
+              style="width: 100%;"
               width="100%"
             />
             <h5>
@@ -562,6 +679,9 @@ Object {
             <p>
               this is a product description
             </p>
+            <button>
+              Add to Cart
+            </button>
           </div>
         </div>
       </div>
