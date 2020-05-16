@@ -6,86 +6,138 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="plpPage"
+        class="plpPage container"
       >
-        <h2>
-          PLP page
-        </h2>
-        <div>
-          <h3>
-            some title
-          </h3>
-          <p>
-            50
-          </p>
-          <p>
-            some description
-          </p>
+        <div
+          class="row"
+        >
+          <h2>
+            PLP page
+          </h2>
         </div>
-        <div>
-          <h3>
-            another title
-          </h3>
-          <p>
-            70
-          </p>
-          <p>
-            another description
-          </p>
-        </div>
-        <div>
-          <h3>
-            final title
-          </h3>
-          <p>
-            100
-          </p>
-          <p>
-            final description
-          </p>
+        <div
+          class="row"
+        >
+          <div
+            class="col"
+          >
+            <div
+              class="product-card"
+            >
+              <h3>
+                some title
+              </h3>
+              <p>
+                50
+              </p>
+              <p>
+                some description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              class="product-card"
+            >
+              <h3>
+                another title
+              </h3>
+              <p>
+                70
+              </p>
+              <p>
+                another description
+              </p>
+            </div>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              class="product-card"
+            >
+              <h3>
+                final title
+              </h3>
+              <p>
+                100
+              </p>
+              <p>
+                final description
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="plpPage"
+      class="plpPage container"
     >
-      <h2>
-        PLP page
-      </h2>
-      <div>
-        <h3>
-          some title
-        </h3>
-        <p>
-          50
-        </p>
-        <p>
-          some description
-        </p>
+      <div
+        class="row"
+      >
+        <h2>
+          PLP page
+        </h2>
       </div>
-      <div>
-        <h3>
-          another title
-        </h3>
-        <p>
-          70
-        </p>
-        <p>
-          another description
-        </p>
-      </div>
-      <div>
-        <h3>
-          final title
-        </h3>
-        <p>
-          100
-        </p>
-        <p>
-          final description
-        </p>
+      <div
+        class="row"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="product-card"
+          >
+            <h3>
+              some title
+            </h3>
+            <p>
+              50
+            </p>
+            <p>
+              some description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="product-card"
+          >
+            <h3>
+              another title
+            </h3>
+            <p>
+              70
+            </p>
+            <p>
+              another description
+            </p>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="product-card"
+          >
+            <h3>
+              final title
+            </h3>
+            <p>
+              100
+            </p>
+            <p>
+              final description
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>,
