@@ -1,17 +1,18 @@
 import React from 'react';
 
-import { Button } from 'react-bootstrap';
+import { Button, Card } from 'react-bootstrap';
 
 function ProductCard({ title, image, price, description }) {
   return (
-    <div style={{ marginTop: "15px" }} className="product-card">
-      <img style={{ width: "100%" }} width="100%" src={image} alt={title} />
-      <h5>{title}</h5>
-      <p>{`£${price}`}</p>
-      <p>{description}</p>
-
-      <Button variant="success">Add to cart</Button>
-    </div>
+    <Card style={{ marginTop: '15px' }}>
+      <Card.Img variant="top" src={image} />
+      <Card.Body>
+        <Card.Title>{title}</Card.Title>
+        <Card.Text>{`£${price}`}</Card.Text>
+        <Card.Text>{description}</Card.Text>
+        <Button variant="success">Add to cart</Button>
+      </Card.Body>
+    </Card>
   );
 }
 
