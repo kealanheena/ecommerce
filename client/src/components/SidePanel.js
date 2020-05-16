@@ -10,7 +10,7 @@ function SidePanel({ isOpen }) {
         backgroundColor: 'white',
         position: 'fixed',
         top: '56px',
-        right: isOpen ? '-500px' : 0,
+        right: isOpen ? 0 : '-500px',
         transition: '0.5s'
     }}>
       <p>This will be an awsome shopping cart some day...</p>

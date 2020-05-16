@@ -61,7 +61,7 @@ Object {
           </div>
         </nav>
         <div
-          style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: 0px; transition: 0.5s;"
+          style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: -500px; transition: 0.5s;"
         >
           <p>
             This will be an awsome shopping cart some day...
@@ -134,7 +134,7 @@ Object {
         </div>
       </nav>
       <div
-        style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: 0px; transition: 0.5s;"
+        style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: -500px; transition: 0.5s;"
       >
         <p>
           This will be an awsome shopping cart some day...
