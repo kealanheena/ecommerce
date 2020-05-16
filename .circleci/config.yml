@@ -10,8 +10,7 @@ jobs:
       - restore_cache:
           keys:
             - node-v1-{{ checksum "yarn.lock" }}
-      - run: yarn --frozen-lockfile
-      - run: npm install --prefix ./client
+      - run: cd ./client && yarn install
       - run: yarn --cwd ./client test
 workflows:
     build-and-test:
