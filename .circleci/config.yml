@@ -7,9 +7,13 @@ jobs:
       name: node/default
     steps:
       - checkout
-      - run: yarn --cwd ./client install 
-      - run: yarn --cwd ./client test
+      - run:
+          name: install client dependencies
+          command: yarn --cwd ./client install 
+      - run: 
+          name: run client tests
+          command: yarn --cwd ./client test 
 workflows:
-    build-and-test:
+    build-and-test-client:
       jobs:
-        - build-and-test
+        - build-and-test-client
