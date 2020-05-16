@@ -9,31 +9,36 @@ Object {
         class="App"
       >
         <nav
-          class="Navigation"
+          class="navbar navbar-expand navbar-dark bg-dark"
         >
-          <ul>
-            <li>
-              <a
-                href="/"
-              >
-                home
-              </a>
-            </li>
-            <li>
-              <a
-                href="/products"
-              >
-                plp
-              </a>
-            </li>
-            <li>
-              <a
-                href="/products/:id"
-              >
-                pdp
-              </a>
-            </li>
-          </ul>
+          <a
+            class="navbar-brand"
+            href="/"
+          >
+            Ecommerce
+          </a>
+          <div
+            class="mr-auto navbar-nav"
+          >
+            <a
+              class="nav-link"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="nav-link"
+              href="/products"
+            >
+              products
+            </a>
+            <a
+              class="nav-link"
+              href="/products/:id"
+            >
+              pdp
+            </a>
+          </div>
         </nav>
         <div
           class="homePage"
@@ -50,31 +55,36 @@ Object {
       class="App"
     >
       <nav
-        class="Navigation"
+        class="navbar navbar-expand navbar-dark bg-dark"
       >
-        <ul>
-          <li>
-            <a
-              href="/"
-            >
-              home
-            </a>
-          </li>
-          <li>
-            <a
-              href="/products"
-            >
-              plp
-            </a>
-          </li>
-          <li>
-            <a
-              href="/products/:id"
-            >
-              pdp
-            </a>
-          </li>
-        </ul>
+        <a
+          class="navbar-brand"
+          href="/"
+        >
+          Ecommerce
+        </a>
+        <div
+          class="mr-auto navbar-nav"
+        >
+          <a
+            class="nav-link"
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            class="nav-link"
+            href="/products"
+          >
+            products
+          </a>
+          <a
+            class="nav-link"
+            href="/products/:id"
+          >
+            pdp
+          </a>
+        </div>
       </nav>
       <div
         class="homePage"
