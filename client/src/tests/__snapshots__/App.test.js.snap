@@ -51,6 +51,11 @@ Object {
                   fill="currentColor"
                 />
               </svg>
+              <span
+                class="badge badge-pill badge-danger"
+              >
+                5 
+              </span>
             </a>
           </div>
         </nav>
@@ -111,6 +116,11 @@ Object {
                 fill="currentColor"
               />
             </svg>
+            <span
+              class="badge badge-pill badge-danger"
+            >
+              5 
+            </span>
           </a>
         </div>
       </nav>
