@@ -19,53 +19,266 @@ Object {
           class="row"
         >
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                some title
-              </h3>
+              <img
+                alt="Incredible Granite Towels"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Incredible Granite Towels
+              </h5>
               <p>
-                50
+                £394.00
               </p>
               <p>
-                some description
+                Practical, Generic, Handmade
               </p>
             </div>
           </div>
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                another title
-              </h3>
+              <img
+                alt="Tasty Rubber Ball"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Tasty Rubber Ball
+              </h5>
               <p>
-                70
+                £856.00
               </p>
               <p>
-                another description
+                Incredible, Practical, Gorgeous
               </p>
             </div>
           </div>
           <div
-            class="col"
+            class="col-4"
           >
             <div
               class="product-card"
             >
-              <h3>
-                final title
-              </h3>
+              <img
+                alt="Fantastic Cotton Computer"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Fantastic Cotton Computer
+              </h5>
               <p>
-                100
+                £909.00
               </p>
               <p>
-                final description
+                Intelligent, Gorgeous, Gorgeous
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Gorgeous Soft Ball"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Gorgeous Soft Ball
+              </h5>
+              <p>
+                £812.00
+              </p>
+              <p>
+                Practical, Sleek, Gorgeous
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Tasty Plastic Table"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Tasty Plastic Table
+              </h5>
+              <p>
+                £127.00
+              </p>
+              <p>
+                Refined, Handmade, Sleek
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Refined Plastic Mouse"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Refined Plastic Mouse
+              </h5>
+              <p>
+                £944.00
+              </p>
+              <p>
+                Ergonomic, Rustic, Handcrafted
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Licensed Soft Pants"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Licensed Soft Pants
+              </h5>
+              <p>
+                £376.00
+              </p>
+              <p>
+                Ergonomic, Licensed, Awesome
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Gorgeous Cotton Chair"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Gorgeous Cotton Chair
+              </h5>
+              <p>
+                £697.00
+              </p>
+              <p>
+                Licensed, Rustic, Handcrafted
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Licensed Steel Tuna"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Licensed Steel Tuna
+              </h5>
+              <p>
+                £596.00
+              </p>
+              <p>
+                Ergonomic, Incredible, Gorgeous
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Handcrafted Frozen Ball"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Handcrafted Frozen Ball
+              </h5>
+              <p>
+                £828.00
+              </p>
+              <p>
+                Fantastic, Generic, Rustic
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Rustic Soft Soap"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Rustic Soft Soap
+              </h5>
+              <p>
+                £16.00
+              </p>
+              <p>
+                Incredible, Sleek, Handmade
+              </p>
+            </div>
+          </div>
+          <div
+            class="col-4"
+          >
+            <div
+              class="product-card"
+            >
+              <img
+                alt="Handmade Metal Car"
+                src="http://placehold.jp/640x480.png?text=placeholder"
+                width="100%"
+              />
+              <h5>
+                Handmade Metal Car
+              </h5>
+              <p>
+                £944.00
+              </p>
+              <p>
+                Small, Unbranded, Licensed
               </p>
             </div>
           </div>
@@ -88,53 +301,266 @@ Object {
         class="row"
       >
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              some title
-            </h3>
+            <img
+              alt="Incredible Granite Towels"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Incredible Granite Towels
+            </h5>
             <p>
-              50
+              £394.00
             </p>
             <p>
-              some description
+              Practical, Generic, Handmade
             </p>
           </div>
         </div>
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              another title
-            </h3>
+            <img
+              alt="Tasty Rubber Ball"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Tasty Rubber Ball
+            </h5>
             <p>
-              70
+              £856.00
             </p>
             <p>
-              another description
+              Incredible, Practical, Gorgeous
             </p>
           </div>
         </div>
         <div
-          class="col"
+          class="col-4"
         >
           <div
             class="product-card"
           >
-            <h3>
-              final title
-            </h3>
+            <img
+              alt="Fantastic Cotton Computer"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Fantastic Cotton Computer
+            </h5>
             <p>
-              100
+              £909.00
             </p>
             <p>
-              final description
+              Intelligent, Gorgeous, Gorgeous
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Gorgeous Soft Ball"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Gorgeous Soft Ball
+            </h5>
+            <p>
+              £812.00
+            </p>
+            <p>
+              Practical, Sleek, Gorgeous
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Tasty Plastic Table"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Tasty Plastic Table
+            </h5>
+            <p>
+              £127.00
+            </p>
+            <p>
+              Refined, Handmade, Sleek
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Refined Plastic Mouse"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Refined Plastic Mouse
+            </h5>
+            <p>
+              £944.00
+            </p>
+            <p>
+              Ergonomic, Rustic, Handcrafted
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Licensed Soft Pants"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Licensed Soft Pants
+            </h5>
+            <p>
+              £376.00
+            </p>
+            <p>
+              Ergonomic, Licensed, Awesome
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Gorgeous Cotton Chair"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Gorgeous Cotton Chair
+            </h5>
+            <p>
+              £697.00
+            </p>
+            <p>
+              Licensed, Rustic, Handcrafted
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Licensed Steel Tuna"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Licensed Steel Tuna
+            </h5>
+            <p>
+              £596.00
+            </p>
+            <p>
+              Ergonomic, Incredible, Gorgeous
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Handcrafted Frozen Ball"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Handcrafted Frozen Ball
+            </h5>
+            <p>
+              £828.00
+            </p>
+            <p>
+              Fantastic, Generic, Rustic
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Rustic Soft Soap"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Rustic Soft Soap
+            </h5>
+            <p>
+              £16.00
+            </p>
+            <p>
+              Incredible, Sleek, Handmade
+            </p>
+          </div>
+        </div>
+        <div
+          class="col-4"
+        >
+          <div
+            class="product-card"
+          >
+            <img
+              alt="Handmade Metal Car"
+              src="http://placehold.jp/640x480.png?text=placeholder"
+              width="100%"
+            />
+            <h5>
+              Handmade Metal Car
+            </h5>
+            <p>
+              £944.00
+            </p>
+            <p>
+              Small, Unbranded, Licensed
             </p>
           </div>
         </div>
