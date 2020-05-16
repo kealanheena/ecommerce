@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 
 import productData from '../mock_data/products';
 
-import { Container, Row, Col } from 'react-bootstrap';
-import ProductCard from '../components/Product-card';
+import { Container, Row } from 'react-bootstrap';
+import ProductGrid from '../components/Product-grid';
 
 function PLP() {
   const [products] = useState(productData);
@@ -11,19 +11,10 @@ function PLP() {
   return (
     <Container className="plpPage">
       <Row>
-        <h2>PLP page</h2>
+        <h2 data-testid="PLP-header">PLP page</h2>
       </Row>
       <Row>
-        {products.map(({ id, title, image, price, description }) => (
-          <Col xs={4} key={id}>
-            <ProductCard
-              title={title}
-              image={image}
-              price={price}
-              description={description}
-            />
-          </Col>
-        ))}
+        <ProductGrid products={products} />
       </Row>
     </Container>
   );
