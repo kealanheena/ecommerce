@@ -5,8 +5,6 @@ import App from './App';
 // Importing the Bootstrap CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// test change
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
