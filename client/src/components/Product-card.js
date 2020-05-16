@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { Button } from 'react-bootstrap';
+
 function ProductCard({ title, image, price, description }) {
   return (
     <div style={{ marginTop: "15px" }} className="product-card">
@@ -7,7 +9,8 @@ function ProductCard({ title, image, price, description }) {
       <h5>{title}</h5>
       <p>{`£${price}`}</p>
       <p>{description}</p>
-      <button>Add to Cart</button>
+
+      <Button variant="success">Add to cart</Button>
     </div>
   );
 }
