@@ -8,17 +8,11 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-{{ checksum "yarn.lock" }}
-      - node:
-          steps:
-          - run:
-            name: Install Dependencies
-            command: yarn install --frozen-lockfile
-          - run: 
-            name: run tests
-            command: yarn --cwd ./client test
+            - node-v1-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+      - run: yarn --frozen-lockfile
+      - run: npm install --prefix ./client
+      - run: yarn --cwd ./client test
 workflows:
     build-and-test:
       jobs:
