@@ -22,360 +22,456 @@ Object {
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
           <div
             class="col-4"
           >
             <div
-              class="product-card"
+              class="card"
               style="margin-top: 15px;"
             >
               <img
-                alt="Product Title"
+                class="card-img-top"
                 src="http://placehold.jp/640x480.png?text=placeholder"
-                style="width: 100%;"
-                width="100%"
               />
-              <h5>
-                Product Title
-              </h5>
-              <p>
-                £100
-              </p>
-              <p>
-                this is a product description
-              </p>
-              <button
-                class="btn btn-success"
-                type="button"
+              <div
+                class="card-body"
               >
-                Add to cart
-              </button>
+                <div
+                  class="card-title h5"
+                >
+                  Product Title
+                </div>
+                <p
+                  class="card-text"
+                >
+                  £100
+                </p>
+                <p
+                  class="card-text"
+                >
+                  this is a product description
+                </p>
+                <button
+                  class="btn btn-success"
+                  type="button"
+                >
+                  Add to cart
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -400,360 +496,456 @@ Object {
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
         <div
           class="col-4"
         >
           <div
-            class="product-card"
+            class="card"
             style="margin-top: 15px;"
           >
             <img
-              alt="Product Title"
+              class="card-img-top"
               src="http://placehold.jp/640x480.png?text=placeholder"
-              style="width: 100%;"
-              width="100%"
             />
-            <h5>
-              Product Title
-            </h5>
-            <p>
-              £100
-            </p>
-            <p>
-              this is a product description
-            </p>
-            <button
-              class="btn btn-success"
-              type="button"
+            <div
+              class="card-body"
             >
-              Add to cart
-            </button>
+              <div
+                class="card-title h5"
+              >
+                Product Title
+              </div>
+              <p
+                class="card-text"
+              >
+                £100
+              </p>
+              <p
+                class="card-text"
+              >
+                this is a product description
+              </p>
+              <button
+                class="btn btn-success"
+                type="button"
+              >
+                Add to cart
+              </button>
+            </div>
           </div>
         </div>
       </div>
