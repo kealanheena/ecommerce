@@ -14,10 +14,11 @@ function PLP() {
         <h2>PLP page</h2>
       </Row>
       <Row>
-        {products.map(({ title, price, description }) => (
-          <Col key={title}>
+        {products.map(({ id, title, image, price, description }) => (
+          <Col xs={4} key={id}>
             <ProductCard
               title={title}
+              image={image}
               price={price}
               description={description}
             />

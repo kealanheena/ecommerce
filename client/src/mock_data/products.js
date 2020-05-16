@@ -1,24 +1,15 @@
-const productData = [
-  {
-    id: '1',
-    title: 'some title',
-    price: 50,
-    description: 'some description',
-  },
+import faker from 'faker';
 
-  {
-    id: '2',
-    title: 'another title',
-    price: 70,
-    description: 'another description',
-  },
+const productData = [];
 
-  {
-    id: '3',
-    title: 'final title',
-    price: 100,
-    description: 'final description',
-  },
-];
+for(let i = 1; i <= 12; i++) {
+  productData.push({
+    id: i,
+    image: 'http://placehold.jp/640x480.png?text=placeholder',
+    title: faker.commerce.productName(),
+    price: faker.commerce.price(),
+    description: `${faker.commerce.productAdjective()}, ${faker.commerce.productAdjective()}, ${faker.commerce.productAdjective()}`
+  });
+}
 
 export default productData;
