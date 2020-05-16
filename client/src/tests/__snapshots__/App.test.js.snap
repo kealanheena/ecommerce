@@ -7,9 +7,10 @@ Object {
     <div>
       <div
         class="App"
+        style="padding-top: 56px;"
       >
         <nav
-          class="navbar navbar-expand navbar-dark bg-dark"
+          class="navbar navbar-expand navbar-dark bg-dark fixed-top"
         >
           <a
             class="navbar-brand"
@@ -60,6 +61,13 @@ Object {
           </div>
         </nav>
         <div
+          style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: 0px; transition: 0.5s;"
+        >
+          <p>
+            This will be an awsome shopping cart some day...
+          </p>
+        </div>
+        <div
           class="homePage"
         >
           <h1>
@@ -72,9 +80,10 @@ Object {
   "container": <div>
     <div
       class="App"
+      style="padding-top: 56px;"
     >
       <nav
-        class="navbar navbar-expand navbar-dark bg-dark"
+        class="navbar navbar-expand navbar-dark bg-dark fixed-top"
       >
         <a
           class="navbar-brand"
@@ -124,6 +133,13 @@ Object {
           </a>
         </div>
       </nav>
+      <div
+        style="width: 500px; height: 100%; z-index: 1; background-color: white; position: fixed; top: 56px; right: 0px; transition: 0.5s;"
+      >
+        <p>
+          This will be an awsome shopping cart some day...
+        </p>
+      </div>
       <div
         class="homePage"
       >
