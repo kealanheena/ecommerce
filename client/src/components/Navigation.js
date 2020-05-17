@@ -1,11 +1,15 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 
 import { Navbar, Nav, Badge } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 
+import CartContext from '../context/cart-context';
+
 function Navigation({ toggleSidePanel }) {
+  const { cartProducts } = useContext(CartContext);
+
   return (
     <Navbar bg="dark" variant="dark" fixed="top">
       <Navbar.Brand as={Link} to="/">
@@ -19,8 +23,8 @@ function Navigation({ toggleSidePanel }) {
       <Nav className="ml-auto">
         <Nav.Link onClick={() => toggleSidePanel()}>
           <FontAwesomeIcon color="#fff" icon={faShoppingCart} />
-          <Badge pill variant="danger">
-            5 {/* This number will be dynamic someday */}
+          <Badge pill variant={cartProducts.length && 'danger'}>
+            {cartProducts.length}
           </Badge>
         </Nav.Link>
       </Nav>
