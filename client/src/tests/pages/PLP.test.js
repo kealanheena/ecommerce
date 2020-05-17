@@ -2,7 +2,7 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import PLP from '../../pages/PLP';
 
-test('matches snapshot', () => {
-  const renderedPLP = render(<PLP />);
-  expect(renderedPLP).toMatchSnapshot();
+test.skip('Should render a <h2> with text of PLP page', () => {
+  const { getByTestId } = render(<PLP />);
+  expect(getByTestId('PLP-header')).toBeTruthy();
 });
