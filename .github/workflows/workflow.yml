@@ -1,4 +1,4 @@
-# Read more about github actions here: 
+# Read more about github actions here:
 # https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
 # https://help.github.com/en/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
@@ -8,22 +8,23 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-version: [8.x, 10.x, 12.x]
+        node-version: [10.x, 12.x]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: Install client dependencies
-      run: yarn --cwd ./client install
-    - name: Run client tests
-      run: yarn --cwd ./client test
-      env:
-        CI: true
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install client dependencies
+        run: yarn --cwd ./client install
+      - name: Run client tests
+        run: yarn --cwd ./client test
+      - name: Client lint
+        run: yarn --cwd ./client lint 
+        env:
+          CI: true
