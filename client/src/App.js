@@ -15,7 +15,7 @@ function App() {
   const [cartProducts, dispatch] = useReducer(CartReducer, []);
 
   const [isSidePanelOpen, setIsSidePanelOpen] = useState(false);
-  
+
   function toggleSidePanel() {
     setIsSidePanelOpen(!isSidePanelOpen);
   }
