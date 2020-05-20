@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
+import { Container, Row } from 'react-bootstrap';
 
 import productData from '../mock_data/products';
-
-import { Container, Row } from 'react-bootstrap';
 import ProductGrid from '../components/Product-grid';
 
 function PLP() {
