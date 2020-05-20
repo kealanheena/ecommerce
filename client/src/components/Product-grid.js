@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import { Col } from 'react-bootstrap';
 import ProductCard from './Product-card';
@@ -24,5 +25,9 @@ function ProductGrid({ products }) {
     </>
   );
 }
+
+ProductGrid.propTypes = {
+  products: PropTypes.arrayOf(PropTypes.object).isRequired
+};
 
 export default ProductGrid;
