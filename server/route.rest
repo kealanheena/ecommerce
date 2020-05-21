@@ -1,0 +1,35 @@
+### 
+
+GET http://localhost:4000/products/
+
+###
+
+GET http://localhost:4000/products/15
+
+###
+
+POST http://localhost:4000/products/
+Content-Type: application/json
+
+{
+  "name": "Shoe",
+  "price": "£5",
+  "img": "img_url"
+}
+
+###
+
+GET http://localhost:4000/products/:id
+
+###
+
+DELETE http://localhost:4000/products/:id
+
+###
+
+PATCH  http://localhost:4000/products/5ec682306eeb885b78401009
+Content-Type: application/json
+
+{
+  "name": "Boot"
+}
