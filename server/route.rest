@@ -1,4 +1,4 @@
-### 
+### Download REST Client on VScode to use
 
 GET http://localhost:4000/products/
 
