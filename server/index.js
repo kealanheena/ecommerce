@@ -9,7 +9,7 @@ const PORT = 4000;
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect(process.env.DATABASE_URL, {
+mongoose.connect(process.env.DATABASE_URL || mongodb://127.0.0.1.27017/ecommerce, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
@@ -27,5 +27,4 @@ app.use('/products', productsRouter)
 app.listen(PORT, () => {
   console.log(`App is listening on port ${PORT}`);
 });
-
 
