@@ -12,9 +12,9 @@ POST http://localhost:4000/products/
 Content-Type: application/json
 
 {
-  "name": "Shoe",
-  "price": "£5",
-  "img": "img_url"
+  "name": "Testing",
+  "price": 123,
+  "img": "Testing_img_url"
 }
 
 ###
@@ -27,9 +27,9 @@ DELETE http://localhost:4000/products/:id
 
 ###
 
-PATCH  http://localhost:4000/products/5ec682306eeb885b78401009
+PATCH  http://localhost:4000/products/5ec7e13e1bc85d8d703d1352
 Content-Type: application/json
 
 {
-  "name": "Boot"
+  "name": "This is another Change part 2"
 }

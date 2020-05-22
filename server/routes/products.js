@@ -19,15 +19,15 @@ router.get('/:id', getProduct, (req, res) => {
 
 // Creating a product
 router.post('/', async (req, res) => {
-  const product = new Product({
-    name: req.body.name,
-    price: req.body.price,
-    img: req.body.img
-  })
-
   try {
-    const newProduct = await product.save()
-    res.status(201).json(newProduct)
+    Product.create({
+      name: req.body.name,
+      price: req.body.price,
+      img: req.body.img
+    }, function(err, product) {
+      if(err) return handleError(err);
+    });
+    res.status(201).json({ message: "Saved product"} )
   } catch(err) {
     res.status(400).json({ message: err.message })
   }
@@ -45,8 +45,20 @@ router.patch('/:id',  getProduct, async (req, res) => {
     res.product.img = req.body.img
   }
   try {
-    const updatedProduct = await res.product.save()
-    res.json(updatedProduct)
+    console.log(req.params.id)
+    console.log(res.product)
+    await Product.replaceOne(
+      { _id: req.params.id },
+      res.product,
+      function(err, result) {
+        if (err) {
+          res.send(err);
+        } else {
+          res.send(result);
+        }
+      }
+    )
+    res.json({ message: "boom" })
   } catch (err) {
     res.status(400).json({ message: err.message })
   }
@@ -56,7 +68,7 @@ router.patch('/:id',  getProduct, async (req, res) => {
 router.delete('/:id',  getProduct, async (req, res) => {
   try {
     await res.product.remove()
-    res.json( { message: "Deleted Subscriber" })
+    res.json( { message: "Deleted Product" })
   } catch(err) {
     res.status(500).json({ message: err.message })
   }

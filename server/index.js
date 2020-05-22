@@ -9,7 +9,7 @@ const PORT = 4000;
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect(process.env.DATABASE_URL || mongodb://127.0.0.1.27017/ecommerce, {
+mongoose.connect(process.env.DATABASE_URL || 'mongodb://127.0.0.1.27017/ecommerce', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
