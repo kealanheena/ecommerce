@@ -45,8 +45,6 @@ router.patch('/:id',  getProduct, async (req, res) => {
     res.product.img = req.body.img
   }
   try {
-    console.log(req.params.id)
-    console.log(res.product)
     await Product.replaceOne(
       { _id: req.params.id },
       res.product,
@@ -58,7 +56,6 @@ router.patch('/:id',  getProduct, async (req, res) => {
         }
       }
     )
-    res.json({ message: "boom" })
   } catch (err) {
     res.status(400).json({ message: err.message })
   }
@@ -67,7 +64,7 @@ router.patch('/:id',  getProduct, async (req, res) => {
 // Deleting a product
 router.delete('/:id',  getProduct, async (req, res) => {
   try {
-    await res.product.remove()
+    await Product.findOneAndDelete( { _id: req.params.id } )
     res.json( { message: "Deleted Product" })
   } catch(err) {
     res.status(500).json({ message: err.message })
