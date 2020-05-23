@@ -2,7 +2,6 @@ const express = require('express');
 const mongoose = require('mongoose');
 
 const app = express();
-
 const PORT = process.env.PORT || 5000;
 const URI = 'mongodb://localhost:27017/ecommerce';
 
@@ -24,7 +23,6 @@ mongoose.connection.on('connected', () => {
 mongoose.connection.on('error', (err) => {
   console.log(`Mongoose Default Connection Error : ${err}`);
 });
-
 
 app.get('/api', (req, res) => {
   res.json({ hello: 'there' });

@@ -24,7 +24,7 @@ jobs:
         run: yarn --cwd ./client install
       - name: Run client tests
         run: yarn --cwd ./client test
-      - name: Client lint
-        run: yarn --cwd ./client lint 
+      - name: Lint
+        run: yarn lint 
         env:
           CI: true
