@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
@@ -6,19 +7,24 @@ const mongoose = require('mongoose');
 const PORT = 4000;
 
 app.use(cors());
-app.use(bodyParser.json);
+app.use(bodyParser.json());
 
-mongoose.connect('mongodb://127.0.0.1.27017/ecommerce', {
+mongoose.connect(process.env.DATABASE_URL || 'mongodb://127.0.0.1.27017/ecommerce', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
 
 const connection = mongoose.connection;
 
-connection.once('open', () => {
-  console.log('connected to mongoDB');
-});
+connection.on('error', (err) => console.log(err))
+connection.once('open', () => console.log('connected to mongoDB'));
+
+app.use(express.json())
+
+const productsRouter = require('./routes/products')
+app.use('/products', productsRouter)
 
 app.listen(PORT, () => {
   console.log(`App is listening on port ${PORT}`);
 });
+
