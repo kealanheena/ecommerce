@@ -2,10 +2,12 @@
     "env": {
         "browser": true,
         "es6": true,
+        "node": true,
         "jest": true
     },
     "extends": [
         "airbnb",
+        "node",
         "prettier"
     ],
     "globals": {
@@ -20,9 +22,11 @@
         "sourceType": "module"
     },
     "plugins": [
+        "node",
         "prettier"
     ],
     "rules": {
-        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "import/no-commonjs": 0
     }
 }

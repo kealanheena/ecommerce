@@ -20,11 +20,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Install client dependencies
-        run: yarn --cwd ./client install
+      - name: Install dependencies
+        run: yarn install
       - name: Run client tests
-        run: yarn --cwd ./client test
-      - name: Client lint
-        run: yarn --cwd ./client lint 
+        run: yarn test
+      - name: Lint
+        run: yarn lint 
         env:
           CI: true
