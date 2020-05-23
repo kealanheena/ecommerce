@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Run client tests
-        run: yarn --cwd ./client test
+        run: yarn test
       - name: Lint
         run: yarn lint 
         env:
