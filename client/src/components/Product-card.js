@@ -1,4 +1,5 @@
 import React, { useContext, useState } from 'react';
+import PropTypes from 'prop-types';
 
 import { Button, Card } from 'react-bootstrap';
 
@@ -37,5 +38,12 @@ function ProductCard({ title, image, price, description }) {
     </Card>
   );
 }
+
+ProductCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  image: PropTypes.string.isRequired,
+  price: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired
+};
 
 export default ProductCard;
