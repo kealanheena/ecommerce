@@ -11,6 +11,8 @@ import SidePanel from './components/SidePanel';
 import CartContext from './context/cart-context';
 import CartReducer from './reducer/cart-reducer';
 
+// test edit
+
 function App() {
   const [cartProducts, dispatch] = useReducer(CartReducer, []);
 
